@@ -7,12 +7,12 @@ module.exports = {
             colors: {
                 primary: '#3b82f6',
                 secondary: '#7928ca',
-                accent: '#79ffe1',
+                accent: '#f740df',
                 'prismarine': 'rgba(0, 178, 204, 0.2)',
                 dark: {
                     primary: '#60a5fa',
                     secondary: '#7928ca',
-                    accent: '#79ffe1',
+                    accent: '#f740df',
                     text: '#fff',
                     'text-secondary': '#888',
                     background: '#000',
